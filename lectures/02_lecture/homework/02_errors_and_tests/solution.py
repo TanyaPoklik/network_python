@@ -1,7 +1,3 @@
-"""
-02_errors_and_tests — чиним и тестируем 🛠️
-"""
-
 import asyncio
 import threading
 
